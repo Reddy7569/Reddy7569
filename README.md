@@ -10,7 +10,9 @@ Full Stack Developer
 <br/> <br/>
 🌱 What I’m Learning: I'm always looking to expand my skill set, currently diving deeper into advanced front-end design patterns, performance optimization techniques, and exploring the world of cloud technologies like AWS and Docker. 
 <br/> <br/>
-🚀 What I Bring: Strong problem-solving skills and the ability to quickly adapt to new tools and technologies. Proven experience working in collaborative environments, successfully delivering projects as part of dynamic teams. A commitment to writing clean, maintainable, and scalable code while following industry best practices. 🎯 Let’s Collaborate: I'm actively seeking opportunities to join innovative teams where I can contribute, grow, and continue to refine my skills. If you're looking for someone with a strong foundation in MERN stack development and a passion for delivering high-quality web applications, feel free to reach out. I’m eager to discuss how I can contribute to your projects! 
+🚀 What I Bring: Strong problem-solving skills and the ability to quickly adapt to new tools and technologies. Proven experience working in collaborative environments, successfully delivering projects as part of dynamic teams. A commitment to writing clean, maintainable, and scalable code while following industry best practices.
+<br/> <br/>
+🎯 Let’s Collaborate: I'm actively seeking opportunities to join innovative teams where I can contribute, grow, and continue to refine my skills. If you're looking for someone with a strong foundation in MERN stack development and a passion for delivering high-quality web applications, feel free to reach out. I’m eager to discuss how I can contribute to your projects! 
 <br/> <br/>
 📫 Get in Touch: Let’s connect! I'm open to discussing potential opportunities or simply sharing knowledge. Feel free to explore my repositories and projects, and don’t hesitate to reach out.
 
