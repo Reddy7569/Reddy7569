@@ -4,7 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-Dedicated MERN Stack Developer seeking opportunities to contribute to innovative projects. Passionate about crafting robust, scalable web applications using MongoDB, Express.js, React.js, and Node.js. With a strong foundation in full-stack development, I'm committed to delivering high-quality solutions and continuously expanding my technical expertise. Key Skills: MERN Stack: Proficient in MongoDB, Express.js, React.js, and Node.js Full-Stack Development: Experience in building complete web applications from the ground up Problem-Solving: Ability to identify and resolve technical challenges effectively Collaboration: Strong teamwork skills and a passion for working in dynamic environments
+Dedicated MERN Stack Developer seeking opportunities to contribute to innovative projects. Passionate about crafting robust, scalable web applications using MongoDB, Express.js, React.js, and Node.js. With a strong foundation in full-stack development, I'm committed to delivering high-quality solutions and continuously expanding my technical expertise.
+Key Skills:
+MERN Stack: Proficient in MongoDB, Express.js, React.js, and Node.js Full-Stack 
+Development: Experience in building complete web applications from the ground up 
+Problem-Solving: Ability to identify and resolve technical challenges effectively 
+Collaboration: Strong teamwork skills and a passion for working in dynamic environments
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Lakshmikanth Reddy](http://reddy7569.github.io/portfolio/)
