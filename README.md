@@ -6,10 +6,13 @@ Full Stack Developer
 
 👋 Hi there! I'm a highly motivated MERN Stack Developer, passionate about building robust, full-stack web applications and constantly learning new technologies. I specialize in creating dynamic, responsive web applications using MongoDB, Express.js, React.js, and Node.js. My primary focus is on delivering efficient, scalable, and user-friendly solutions while staying up-to-date with the latest web development trends.
 <br/> <br/>
-💻 What I've Worked On:
+💻 What I've Worked On:<br/> 
 🚀 Full-Stack Developer: Building seamless web applications with React.js, Node.js, Express, and MongoDB.
+<br/>
 🔒 Authentication & Security: Secured apps with JWT for reliable and protected user experiences.
+<br/>
 🎨 Frontend Specialist: Crafting responsive, interactive UIs with reusable components and smooth API integrations.
+<br/>
 🗄️ Database Enthusiast: Designing schemas and optimizing queries for efficient data management..
 <br/> <br/>
 🌱 What I’m Learning: I'm always looking to expand my skill set, currently diving deeper into advanced front-end design patterns, performance optimization techniques, and exploring the world of cloud technologies like AWS and Docker. 
